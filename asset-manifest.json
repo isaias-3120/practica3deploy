@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practica3deploy/static/css/main.964ffce7.chunk.css",
+    "main.js": "/practica3deploy/static/js/main.1703e0ef.chunk.js",
+    "main.js.map": "/practica3deploy/static/js/main.1703e0ef.chunk.js.map",
+    "runtime-main.js": "/practica3deploy/static/js/runtime-main.0798092b.js",
+    "runtime-main.js.map": "/practica3deploy/static/js/runtime-main.0798092b.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/practica3deploy/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c817260d.chunk.js": "/practica3deploy/static/js/2.c817260d.chunk.js",
+    "static/js/2.c817260d.chunk.js.map": "/practica3deploy/static/js/2.c817260d.chunk.js.map",
+    "static/js/3.cdcf0ef4.chunk.js": "/practica3deploy/static/js/3.cdcf0ef4.chunk.js",
+    "static/js/3.cdcf0ef4.chunk.js.map": "/practica3deploy/static/js/3.cdcf0ef4.chunk.js.map",
+    "index.html": "/practica3deploy/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/practica3deploy/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.964ffce7.chunk.css.map": "/practica3deploy/static/css/main.964ffce7.chunk.css.map",
+    "static/js/2.c817260d.chunk.js.LICENSE.txt": "/practica3deploy/static/js/2.c817260d.chunk.js.LICENSE.txt",
+    "static/media/amazon.c3fbd390.png": "/practica3deploy/static/media/amazon.c3fbd390.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0798092b.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c817260d.chunk.js",
+    "static/css/main.964ffce7.chunk.css",
+    "static/js/main.1703e0ef.chunk.js"
+  ]
+}
